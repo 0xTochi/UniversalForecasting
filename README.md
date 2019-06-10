@@ -1,6 +1,6 @@
 # UniversalForecasting
 
-This repository aims to create a method to forecasting any time series of one variable, using a approach to the method available in http://www.unofficialgoogledatascience.com/2017/04/our-quest-for-robust-time-series.html
+This repository aims to create a method to forecasting any time series of one variable, using an approach to the method available in http://www.unofficialgoogledatascience.com/2017/04/our-quest-for-robust-time-series.html
 
 The method is explained in the following picture
 
